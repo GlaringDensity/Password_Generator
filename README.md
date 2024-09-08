@@ -15,6 +15,5 @@ This is a Random Password Generator application built with React. It generates s
 ## 🛠️ Technologies Used
 
 - **React** - For building the user interface and managing state.
-- **JavaScript** - For implementing the password generation logic.
 - **CSS** - For styling the application to make it visually appealing.
 
