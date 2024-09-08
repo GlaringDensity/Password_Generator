@@ -2,7 +2,7 @@
 
 This is a Random Password Generator application built with React. It generates strong and secure passwords based on user-selected criteria such as length, use of uppercase letters, numbers, and special characters. The app provides a quick and easy way to create passwords that help keep your online accounts secure.
 
-![Random Password Generator Screenshot](link-to-your-screenshot) <!-- Add a link to a screenshot of your project -->
+![Random Password Generator Screenshot](//github.com/GlaringDensity/Password_Generator/blob/main/password/src/assets/password.png) <!-- Add a link to a screenshot of your project -->
 
 ## 🚀 Features
 
